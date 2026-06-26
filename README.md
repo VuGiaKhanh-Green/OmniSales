@@ -119,12 +119,16 @@ Bước 9: Chạy dự án bằng cách click vào OmniSales.Web ở phần solu
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e8c2bfc4-6848-4cfc-b883-1d4a4c19605b" />
 
 Tài khoản Admin:
+
 admin@omnisales.com
 Admin@123
 
 Tài khoản Vendor:
+
 vendor@omnisales.com
 Vendor@123
+
+  Chú ý: Hệ thống hỗ trợ chạy đa vai trò đồng thời trên cùng một địa chỉ (cổng). Nên khi chạy được thành công, địa chỉ (cổng) sẽ xuất hiện ở phần đường dẫn trang web. Muốn thử các vai trò khác (bật nhiều tab để truy cập trang web) thì phải dùng đúng địa chỉ (cổng ) xuất hiện khi chạy thành công ở trên
 
 
 
